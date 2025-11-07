@@ -4,7 +4,7 @@ android-13-public
 ### 开始
 在X86编译服务器上运行，系统版本不低于Ubuntu 22.04.4（推荐），内存不小于64GB。
 ```
-git clone https://github.com/vmos-dev/android-13-public.git
+git clone https://github.com/amitkonit/android-13-public.git
 ```
 Then to clone lfs file:
 ```
